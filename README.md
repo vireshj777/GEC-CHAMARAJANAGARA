@@ -1,3 +1,4 @@
+<img width="1502" height="942" alt="Screenshot 2026-04-25 110744" src="https://github.com/user-attachments/assets/04ea054b-6397-4047-b17e-9f20c94d140a" />
 # GEC-CHAMARAJANAGARA
 # 🧠 Memory Vault AI
 
