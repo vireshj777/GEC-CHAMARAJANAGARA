@@ -1,10 +1,11 @@
-<img width="1514" height="956" alt="Screenshot 2026-04-25 111058" src="https://github.com/user-attachments/assets/d7ef5e17-d2d3-4a2d-acf0-45abc843bdf6" />
-<img width="1497" height="942" alt="Screenshot 2026-04-25 111025" src="https://github.com/user-attachments/assets/42225f28-2d60-40f0-b293-f42bb80e6ba3" />
-<img width="1502" height="947" alt="Screenshot 2026-04-25 111007" src="https://github.com/user-attachments/assets/fd42bf7b-4725-4e33-b32d-c192c964084e" />
-<img width="1495" height="937" alt="Screenshot 2026-04-25 110934" src="https://github.com/user-attachments/assets/20e4f4c9-3eb4-401a-b442-7f43396a2a62" />
-<img width="1500" height="944" alt="Screenshot 2026-04-25 110917" src="https://github.com/user-attachments/assets/5ab7c330-5d9b-4b0d-8242-290d14f3ec66" />
-<img width="1506" height="895" alt="Screenshot 2026-04-25 110850" src="https://github.com/user-attachments/assets/da66c5fd-bdc2-4600-a501-f65fe898d85b" />
 <img width="1502" height="942" alt="Screenshot 2026-04-25 110744" src="https://github.com/user-attachments/assets/04ea054b-6397-4047-b17e-9f20c94d140a" />
+<img width="1506" height="895" alt="Screenshot 2026-04-25 110850" src="https://github.com/user-attachments/assets/da66c5fd-bdc2-4600-a501-f65fe898d85b" />
+<img width="1500" height="944" alt="Screenshot 2026-04-25 110917" src="https://github.com/user-attachments/assets/5ab7c330-5d9b-4b0d-8242-290d14f3ec66" />
+<img width="1495" height="937" alt="Screenshot 2026-04-25 110934" src="https://github.com/user-attachments/assets/20e4f4c9-3eb4-401a-b442-7f43396a2a62" />
+<img width="1502" height="947" alt="Screenshot 2026-04-25 111007" src="https://github.com/user-attachments/assets/fd42bf7b-4725-4e33-b32d-c192c964084e" />
+<img width="1497" height="942" alt="Screenshot 2026-04-25 111025" src="https://github.com/user-attachments/assets/42225f28-2d60-40f0-b293-f42bb80e6ba3" />
+<img width="1514" height="956" alt="Screenshot 2026-04-25 111058" src="https://github.com/user-attachments/assets/d7ef5e17-d2d3-4a2d-acf0-45abc843bdf6" />
+
 # GEC-CHAMARAJANAGARA
 # 🧠 Memory Vault AI
 
