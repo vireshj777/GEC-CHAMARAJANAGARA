@@ -179,13 +179,6 @@ This project is for educational purposes.
 
 ---
 
-## 👨‍💻 Author
-
-**Veeresh J**
-Computer Science Student
-
----
-
 ## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
